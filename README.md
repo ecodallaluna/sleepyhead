@@ -1,5 +1,7 @@
+<!---
 # sleepyhead
-*experimental interface for emotional connection between newborns and parents*
+* experimental interface for emotional connection between newborns and parents *
+-->
 
 ![logo sleepyhead](https://raw.githubusercontent.com/ecodallaluna/sleepyhead/master/img/sleepyhead_intro.jpg)
 
