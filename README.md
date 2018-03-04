@@ -1,8 +1,8 @@
 # sleepyhead
 *experimental interface for emotional connection between newborns and parents*
 
-!(logo sleepyhead)
-[https://raw.githubusercontent.com/ecodallaluna/sleepyhead/master/img/sleepyhead_intro.jpg]
+![logo sleepyhead]
+(https://raw.githubusercontent.com/ecodallaluna/sleepyhead/master/img/sleepyhead_intro.jpg)
 
 ### 1.Introduction 
 During the last years there has been a rising interest for smart systems that are able to monitor the condition of the newborns. Modern baby monitors collected several negative feedbacks. In particular, it looks that their ability to sense the breathing and the heartbeat are far away to be accurate and that generates false alarms very stressful for both parents and children. On the other hand, a more subdue and dangerous false feeling of security can lead the parents to do not check babies carefully when sensors are not triggered often.
